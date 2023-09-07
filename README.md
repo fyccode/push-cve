@@ -15,5 +15,11 @@
 
 
 **推送的效果图如下所示:**
+### 新增cve推送
+> CVE编号: CVE-2023-XXX
+>
+> 漏洞地址: https://xxx.xxx.com
+>
+> 漏洞描述: This is a description for CVE-2023-xxx.(漏洞描述的翻译)
 
-![image](https://github.com/fyccode/push-cve/assets/111268135/e8eaa095-699d-4b96-a00f-66767ae70c7d)
+
