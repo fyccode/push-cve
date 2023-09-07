@@ -129,9 +129,9 @@ class Monitor:
             new_message = self.__compare(older_cve_info)
             if new_message:
                 self.__send(new_message)
-                self.__del_file()
             else:
                 print("暂无新增CVE", datetime.datetime.now(), "\n")
+            self.__del_file()
         else:
             print("暂无新增CVE", datetime.datetime.now(), "\n")
 
